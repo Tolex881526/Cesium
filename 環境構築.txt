@@ -1,9 +1,0 @@
-
-<https://www.kkaneko.jp/db/3dmap/cesium.html>
-
-Cesium‐1.98　フォルダ内
-npm install
-node server.js
-
-webブラウザ
-http://localhost:8080
